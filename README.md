@@ -14,8 +14,10 @@ A Node.js API that:
    ```bash
    npm install
    
-2. ##Run Redis using Docker:
-   ```docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:latest
+2. **Run Redis using Docker:
+   ```bash
+   docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:latest
    
-3. ##Start the Application:
-   ```node server.js
+3. **Start the Application:
+   ```bash
+   node server.js
