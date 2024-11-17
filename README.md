@@ -21,3 +21,6 @@ A Node.js API that:
 3. **Start the Application:
    ```bash
    node server.js
+
+   
+![redd](https://github.com/user-attachments/assets/25f1d871-d3fa-4d35-a913-981cbc917835)
